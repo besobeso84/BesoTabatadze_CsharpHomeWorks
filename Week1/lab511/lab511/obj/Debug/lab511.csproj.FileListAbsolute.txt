@@ -1,0 +1,10 @@
+E:\University 2018-2019\II Semester\EU\CsharpHomeWorks\Week1\lab511\lab511\bin\Debug\lab511.exe.config
+E:\University 2018-2019\II Semester\EU\CsharpHomeWorks\Week1\lab511\lab511\bin\Debug\lab511.exe
+E:\University 2018-2019\II Semester\EU\CsharpHomeWorks\Week1\lab511\lab511\bin\Debug\lab511.pdb
+E:\University 2018-2019\II Semester\EU\CsharpHomeWorks\Week1\lab511\lab511\obj\Debug\lab511.csprojResolveAssemblyReference.cache
+E:\University 2018-2019\II Semester\EU\CsharpHomeWorks\Week1\lab511\lab511\obj\Debug\lab511.Form1.resources
+E:\University 2018-2019\II Semester\EU\CsharpHomeWorks\Week1\lab511\lab511\obj\Debug\lab511.Properties.Resources.resources
+E:\University 2018-2019\II Semester\EU\CsharpHomeWorks\Week1\lab511\lab511\obj\Debug\lab511.csproj.GenerateResource.Cache
+E:\University 2018-2019\II Semester\EU\CsharpHomeWorks\Week1\lab511\lab511\obj\Debug\lab511.csproj.CoreCompileInputs.cache
+E:\University 2018-2019\II Semester\EU\CsharpHomeWorks\Week1\lab511\lab511\obj\Debug\lab511.exe
+E:\University 2018-2019\II Semester\EU\CsharpHomeWorks\Week1\lab511\lab511\obj\Debug\lab511.pdb
